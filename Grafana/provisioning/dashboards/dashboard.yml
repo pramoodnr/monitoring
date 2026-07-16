@@ -1,0 +1,7 @@
+piVersion: 1
+providers:
+  - name: portfolio
+    folder: DevOps Portfolio
+    type: file
+    options:
+      path: /var/lib/grafana/dashboards
